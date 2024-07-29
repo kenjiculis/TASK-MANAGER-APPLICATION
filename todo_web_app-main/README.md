@@ -1,32 +1,27 @@
-# TASK MANAGER APPLICATION
+Task Management Application
 
+What the Project Does
 
-Abstract
+The Task Management Application helps users organize and manage their tasks efficiently. It allows task creation, editing, categorizing, prioritizing, and setting reminders.
 
-The task manager app developed using Flutter aims to provide users with an efficient tool to organize and manage their tasks seamlessly. Utilizing the Flutter framework, known for its cross-platform capabilities and rich UI features, the app offers a user-friendly interface across both Android and iOS platforms. 
+Why the Project is Useful
 
-Objectives:
+This app enhances productivity by providing timely reminders, seamless task synchronization across devices, and an intuitive interface for easy task management.
 
-1. Efficiency: Enhance productivity by allowing users to create, prioritize, and track tasks effortlessly.
-   
-2. User Experience: Provide an intuitive and visually appealing interface that ensures ease of use and encourages regular utilization of the app.
-   
-3. Cross-Platform Compatibility: Leverage Flutter’s ability to deploy natively compiled applications for mobile, web, and desktop from a single codebase, ensuring a consistent experience across devices.
+How Users Can Get Started with the Project
 
+Install Flutter: Ensure Flutter is installed on your system.
 
+Clone the Repository: Use git clone <repository_url> to download the project.
 
-Sustainable Development Goals (SDGs) 
+Install Dependencies: Navigate to the project directory and run flutter pub get.
 
-1. Goal 8: Decent Work and Economic Growth
-   - Task manager apps contribute to better time management and organization, which can enhance productivity in both professional and personal settings. This, in turn, supports economic growth by improving efficiency and reducing time wastage.
+Run the App: Use flutter run to launch the application on an emulator or a physical device.
 
-2. Goal 9: Industry, Innovation, and Infrastructure
-   - By utilizing innovative technologies like Flutter, the app contributes to advancing digital infrastructure and fostering innovation in mobile application development.
+Where Users Can Get Help with the Project
 
-3. Goal 12: Responsible Consumption and Production
-   - Task manager apps can promote responsible consumption of time and resources by helping users prioritize tasks effectively, thereby reducing unnecessary work and improving overall resource efficiency.
+For help, users can refer to the project's GitHub Issues page or contact the maintainers.
 
-4. Goal 17: Partnerships for the Goals
-   - Collaboration between developers, users, and stakeholders in the development and improvement of task manager apps can foster partnerships aimed at achieving common developmental objectives related to productivity and efficiency.
+Who Maintains and Contributes to the Project
 
-This project underscores the importance of leveraging technology to facilitate better task management practices, ultimately contributing to personal and professional growth while aligning with global sustainability initiatives.
+The project is maintained and contributed to by Kendrick, Kenji, and Khim's group.
